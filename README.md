@@ -22,7 +22,7 @@ Withdrawal Management: Record withdrawals while preventing transactions that exc
 
 Automatic Balance Calculation: Update the balance after every successful transaction.
 
-Transaction Identification: Assign unique transaction IDs starting from 100001.
+Transaction Identification: Assign unique transaction IDs.
 
 Transaction History: View recorded transactions with dates, descriptions, payment methods, amounts, and balances.
 
